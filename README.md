@@ -29,7 +29,7 @@ Full Python codes used in experiment could be found in appendix A. Option Valuer
 
 ## 3 Experiment Settings
 ### 3.1 Price Simulation
-We first use geometric Brownian motion as in Black-Sheol model to simulate underlying asset price:
+We first use geometric Brownian motion as in Black-Sholes model to simulate underlying asset price:
 
 ### 3.2 Base Functions
 As mentioned in original paper, we use first 3 terms of Laguerre polynomials as well as a constant term as our base
